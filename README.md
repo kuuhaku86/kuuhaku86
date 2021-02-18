@@ -1,7 +1,7 @@
 # Yohan Ardiansyah - @kuuhaku86
 
 ## Hi Friends 👋
-I'm a Freelancer that focusing on Back-End Development for scalable apps. Currently, I'm interested with building microservices and building cloud infrastructure for software. I'm joining some IT community like [JatimDevDay](https://github.com/jatimdevday), [Surabaya.py](https://github.com/surabaya-py), and [SurabayaDev](https://github.com/surabayadev). 
+I'm a Freelancer that focusing on Back-End Development for scalable apps and Cloud Infrasturcture for the apps. Currently, I'm interested with building services and building cloud infrastructure for software. I'm joining some IT community like [JatimDevDay](https://github.com/jatimdevday), [Surabaya.py](https://github.com/surabaya-py), and [SurabayaDev](https://github.com/surabayadev). 
 
 ## :speech_balloon: Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/yohan-ardiansyah-82a4b8149/)
