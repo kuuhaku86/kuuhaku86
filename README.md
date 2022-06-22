@@ -6,6 +6,8 @@ I'm a Freelancer that focusing on Back-End Development for scalable apps and Clo
 ## :speech_balloon: Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/yohan-ardiansyah-82a4b8149/)
 - [Facebook](https://web.facebook.com/yohan.ardiansyah90/)
+- [My Blog](https://www.software-engineer-story.com)
+- [Medium](https://medium.com/@yohan.ardiansyah90)
 - [Quora](https://id.quora.com/profile/Yohan-Ardiansyah)
 - [StackOverflow](https://stackoverflow.com/users/10118118/yohan)
 - [HackerRank](https://www.hackerrank.com/kuuhaku86)
